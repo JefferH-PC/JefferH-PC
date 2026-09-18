@@ -113,6 +113,15 @@ I'm a developer focused on crafting **clean, reactive web applications** and **r
 ### 📈 GitHub Activity & Contributions
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JefferH-PC/JefferH-PC/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JefferH-PC/JefferH-PC/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JefferH-PC/JefferH-PC/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/><br/>
+
   <a href="https://github.com/JefferH-PC">
     <img src="https://streak-stats.demolab.com/?user=JefferH-PC&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
