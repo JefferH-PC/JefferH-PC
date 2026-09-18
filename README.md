@@ -8,7 +8,7 @@
 </a>
 
 <p align="center">
-  <a href="mailto:jhpcgamerbr177@gmail.com"><img src="https://img.shields.io/badge/Email-jhpcgamerbr177%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:jeffer.contato.work@gmail.com"><img src="https://img.shields.io/badge/Email-jeffer.contato.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/JefferH-PC"><img src="https://img.shields.io/github/followers/JefferH-PC?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers"></a>
 </p>
 
@@ -126,8 +126,8 @@ I'm a developer focused on crafting **clean, reactive web applications** and **r
 
 Feel free to reach out for collaborations, discussions, or just to talk code!
 
-<a href="mailto:jhpcgamerbr177@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-jhpcgamerbr177%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:jeffer.contato.work@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-jeffer.contato.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/JefferH-PC">
   <img src="https://img.shields.io/badge/GitHub-JefferH--PC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
